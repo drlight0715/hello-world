@@ -1,3 +1,2 @@
 # hello-world
-just an example
-it's a test
+It's just an example.
